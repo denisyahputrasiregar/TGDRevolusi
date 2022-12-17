@@ -1,6 +1,8 @@
 RENCANA CONTENT GD
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - Php framework
 - Interview
 - Vlogs
