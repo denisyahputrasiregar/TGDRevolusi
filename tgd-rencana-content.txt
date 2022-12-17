@@ -3,6 +3,7 @@ RENCANA CONTENT GD
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur data dasar
 - Php framework
 - Interview
 - Vlogs
